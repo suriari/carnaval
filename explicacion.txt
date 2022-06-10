@@ -1,0 +1,91 @@
+<html>
+      <head> 
+ 	<title>
+	Carnaval en Tlahuac.
+	</title>
+      </head>
+<body bgcolor="#FFF8DC">
+               <h2>¿Que es el carnaval en Tlahuac?</h2>	
+               <hr>
+               <p>El carnaval es una tradicion del pueblo de Tlahuac, en donde sus multiples comparsas salen a desfilar por las calles del pueblo,con 
+	sus carros alegoricos, reinas, princesas, damas y charros, o bien con disfraces de distintas tematicas.</p>
+                <p>Es importante mencionar que el carnaval de disfraces sale a desfilar primero, y luego el de demas y charros.</p>
+                <p><h2>¿Cuando inicio esta tradicion?</h2></p>
+	A finales del siglo XIX y principios del siglo XX se fundaron las primeras dos comparsas y las mas importantes
+                <p><h2>¿Cuando inician los carnavales en el pueblo de Tlahuac?</h2></p>
+	Comienzan desde el primer domingo de Cuaresma
+	<p><b>La siguiente tabla muestra todas las comparsas de Tlahuac, asi como los años en las que iniciaron, los nombres de los fundadores 		y las reinas mas reconocidas.</b></p>
+               <hr>
+	<table  border=5 bordercolor=purple align=center width=800>
+	   <tr>
+	  <td colspan=5 bgcolor="#00ffff"</td><center>Comparsas del Carnaval de Tlahuac.</center></td>
+	  </tr>
+	  <tr>
+	      
+                     <td bgcolor="#00cccc"</td>Comparsa.</td>
+	       <td bgcolor="#00ccff"</td>Años de inicio.</td>
+ 	       <td bgcolor="#9933ff"</td>Nombres de los fundadores.</td>
+                     <td bgcolor="#ff66ff"</td>Reinas mas reconocidas.</td>
+	  </tr>
+                <tr>
+                     <td>Sociedad Recreativa Benito Juárez. </td>
+	       <td>1920 </td>
+ 	       <td>Marcelina Martínez Chirinos y
+	                 Camilo Castañeda</td>
+ 	       <td>Amparo Ruiz Martínez, 
+	Carmen Reyes Martínez, Carmen Ramo Rioja,
+ 	Socorro Miranda Gutiérrez,
+	 Alicia Mancilla López, 
+	Caritina Rioja Fuentes,
+	 Soledad Chávez Chávez,
+ 	Ofelia Castañeda Granados.</td>
+	  </tr>
+                 <tr>
+                     <td>Club Juvenil San Francisco Tlaltenco. </td>
+	       <td>1944</td>
+ 	       <td>Wilfrido Gómez/td>
+	       <td>Josefina Chavarría Chirinos,Caritina Chávez Chavarría, 
+	Aída Chávez Martínez, 
+	Gloria Chávez Martínez, 
+	Celia Chávez,
+ 	Irene Chavarría Rioja, 
+	Lucrecia Lugo Noguerón,
+ 	Lucila Torres Peña, 
+	Marina Martínez Castañeda, 
+	Alma Rosa Núñez Martínez y Aidee Chavarría Serrano.</td>
+	  </tr>
+	<tr>
+                     <td>Comparsa Independiente Chupamaros.</td>
+	       <td> 1969 </td>
+ 	       <td>Jaime Valles Hernández ,
+|	     Héctor Gutiérrez Martínez y 
+	    Antonio Mancilla Martínez .</td>
+	       <td>Esta comparsa no tiene reinas ya que solo desfilan con disfraces</td>
+	  </tr>
+	<tr>
+                     <td>Los Guadalupanos. </td>
+	       <td>1973</td>
+ 	       <td>José Castañeda Peña, Ricardo Castañeda Peña y Antonio Cortés Flores</td>
+	       <td> Beatriz Reyes Lugo, 
+	Mercedes Miranda, 
+	Josefina Chavarría, Elizabeth Chávez, 
+	Araceli de la Rosa,
+	 Norma Alvarado, 
+	Lorena Flores y María Vargas Hernández.</td>
+	  </tr>
+                 <tr>
+                     <td> Barrio Fuerte </td>
+	       <td>1979.</td>
+ 	       <td>Mario Noguerón Galicia, 
+	Jorge Cedillo Martínez, 
+	Ramón Hernández Meza,
+	 Juan Reyes Morales, 
+	Fernando Medina de la Chica y
+	 el profesor Sergio palacios Castañeda.</td>
+                      <td>Ellos de igual forma no tienen reinas ya que solo desfilan con disfraces</td>
+	  </tr>
+<bgsound src="carnaval.mp3" loop=infinite>
+</body>
+</html>
+
+		
